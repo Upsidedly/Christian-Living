@@ -5,5 +5,5 @@
 
 - Stories
     - [Esther](stories/esther.md)
-        - [Practice](https://upsidedly.github.io/Christian-Living-Project/#/extras/esther?id=practice)
-        - [Games](https://upsidedly.github.io/Christian-Living-Project/#/extras/esther?id=games)
+        - [Practice](extras/esther?id=practice)
+        - [Games](extras/esther?id=games)
