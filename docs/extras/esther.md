@@ -1,7 +1,9 @@
-# Practice
+# Esther Practice And Games
 
-## [Quizizz](https://quizizz.com/join/quiz/62446b7d712f94001dba0a18/start)
+## Practice
 
-# Games
+[Quizizz](https://quizizz.com/join/quiz/62446b7d712f94001dba0a18/start)
+
+## Games
 
 None yet 🙁
