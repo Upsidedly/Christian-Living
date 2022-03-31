@@ -8,4 +8,4 @@
 ## Word Search
 
 (Below embed may not function as intended)
-<script type="text/javascript" src="https://MyWordSearch.com/embedjs.php?puzzle_id=600757"></script>
+<iframe src="https://thewordsearch.com/puzzle/3503034/esther/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe>
