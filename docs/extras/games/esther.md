@@ -7,5 +7,4 @@
 
 ## Word Search
 
-(Below embed may not function as intended)
-<iframe src="https://thewordsearch.com/puzzle/3503034/esther/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe>
+[No embed here, visit the site instead](https://thewordsearch.com/puzzle/3503034/esther/)
