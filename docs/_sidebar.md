@@ -7,3 +7,5 @@
     - [Esther](stories/esther.md)
         - [Practice](extras/practice/esther.md)
         - [Games](extras/games/esther.md)
+
+[Credits](credits.md)

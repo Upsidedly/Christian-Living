@@ -1,8 +1,9 @@
-# A Summary of the Book of Esther
+[Key Notes]()
 
+# A Summary of the Book of Esther
 > The Book of Esther opens with a description of an enormous 180-day party thrown by King Xerxes (Achashverosh)
 
-As the days of feasting draw to a close, he summons his wife, Vashti, to show off her beauty. But Vashti refuses to come and the king, following his ministers’ advice, has her banished.
+As the days of feasting draw to a close, he summons his wife, Vashti, to show off her beauty, but Vashti refuses, and the king, following his ministers’ advice, has her banished.
 
 As time passes, Xerxes the ministers propose that he find a new queen via an elaborate beauty contest of all the kingdom’s beautiful maidens. From all over the 127 provinces, beautiful women are brought to the palace for the king to select his new queen.
 
@@ -11,7 +12,7 @@ Esther is deemed the fairest of them all. “The king loved Esther more than all
 While Mordecai does not reveal his relationship to the new queen, he frequents the palace gates to hear news of Esther’s wellbeing. One day he overhears two men plotting to murder the king and he quickly sends word to Esther, who reveals the plot to the king in the name of Mordecai. The plotters are caught and executed, and Mordecai ‘s name and deed are written in the king’s Book of Chronicles.
 In the meantime, Xerxes appoints Haman the Agagite as Prime Minister (the king’s second in command) and issues a decree that all should bow to him. Mordecai refuses to bow down before Haman, as he will bow only to his God. 
 
-Mordechai’s refusal infuriates Haman. Already driven by his of the Jewish people, Haman goes to King Xerxes and asks for permission to destroy the Jews. He presents the issue to the king as a matter of loyalty, saying “There is a certain people, scattered and spread out among the peoples in all the states of your kingdom, their laws are different from other peoples and they do not observe the king’s laws, so it is not worth it for the king to leave them alive” (Esther 3:8). They might after all plot to overthrow the king.
+Mordecai’s refusal infuriates Haman. Already driven by his of the Jewish people, Haman goes to King Xerxes and asks for permission to destroy the Jews. He presents the issue to the king as a matter of loyalty, saying “There is a certain people, scattered and spread out among the peoples in all the states of your kingdom, their laws are different from other peoples and they do not observe the king’s laws, so it is not worth it for the king to leave them alive” (Esther 3:8). They might after all plot to overthrow the king.
 
 The king agrees and issues an edict to all 127 provinces saying that on the 13th of Adar, the Jews in all the provinces are to be exterminated and their property kept as plunder.
 
@@ -40,3 +41,13 @@ Mordecai: A descendant of King Saul (from the tribe of Benjamin), was a prophet 
 Esther: Esther was a prophetess who possessed exceptional beauty and modesty. Esther was actually her Persian name, her Hebrew name was Hadassah, which means myrtle branch. She lived in the palace of the king without revealing her Jewish identity, which is alluded to by her Persian name
 Haman: Haman is introduced as an Agagite, referring to his lineage as a descendant of Agag. Agag was the last king of Amalek, the national archenemy of the Jewish people. While the Amalekite nation was destroyed by King Saul (Samuel I), Saul disobeyed God’s commandment and had mercy on Agag, allowing him to live. When the prophet Samuel heard of this he was furious and killed Agag himself, but the damage was already done, for Agag had enough time to sow the seeds of future generations. For more information on Agag and the Amalekites, click here. Haman was married to Zeresh and they had ten sons and, according to the Midrash, one daughter, as well. His ten sons were hanged and his daughter committed suicide.
 Zeresh: The wife of Haman is considered to be equal in wickedness to her husband, and similar in her hatred of the Jews. 
+
+## Key Notes
+---
+> The previous queen was named Vashti and was banished by King Xerxes for she refused to show her beauty during the 180-day party
+
+> Esther's Jewish name is Hadassah. Her parents passed away and she was raised by her cousin, Mordecai, who was one of the leaders of the Jewish people in exile.
+
+> Mordecai hears of people plotting to kill the king and reports it to Esther, who then reports it to the king in his name.
+
+> King Xerxes appoints Haman as second in command and issues a decree in which every person should bow when they see him. However, Mordecai refuses to do so for he only bows to his God.
