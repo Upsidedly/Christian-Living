@@ -5,5 +5,5 @@
 
 - Stories
     - [Esther](stories/esther.md)
-        - [Practice](extras/esther?id=practice)
-        - [Games](extras/esther?id=games)
+        - [Practice](extras/practice/esther.md)
+        - [Games](extras/games/esther.md)
