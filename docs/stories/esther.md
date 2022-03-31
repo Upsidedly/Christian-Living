@@ -1,4 +1,4 @@
-[Key Notes]()
+> [Go to the key notes](esther?id=key-notes) (at the bottom of the page)
 
 # A Summary of the Book of Esther
 > The Book of Esther opens with a description of an enormous 180-day party thrown by King Xerxes (Achashverosh)
@@ -43,7 +43,6 @@ Haman: Haman is introduced as an Agagite, referring to his lineage as a descenda
 Zeresh: The wife of Haman is considered to be equal in wickedness to her husband, and similar in her hatred of the Jews. 
 
 ## Key Notes
----
 > The previous queen was named Vashti and was banished by King Xerxes for she refused to show her beauty during the 180-day party
 
 > Esther's Jewish name is Hadassah. Her parents passed away and she was raised by her cousin, Mordecai, who was one of the leaders of the Jewish people in exile.
