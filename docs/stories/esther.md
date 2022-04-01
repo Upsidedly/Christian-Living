@@ -62,7 +62,8 @@ Important Characters in the Book of Esther
 **Haman**:
 > Haman is introduced as an Agagite, referring to his lineage as a descendant of Agag. Agag was the last king of Amalek, the national archenemy of the Jewish people. While the Amalekite nation was destroyed by King Saul (Samuel I), Saul disobeyed God’s commandment and had mercy on Agag, allowing him to live. When the prophet Samuel heard of this he was furious and killed Agag himself, but the damage was already done, for Agag had enough time to sow the seeds of future generations. For more information on Agag and the Amalekites, click here. Haman was married to Zeresh and they had ten sons and, according to the Midrash, one daughter, as well. His ten sons were hanged and his daughter committed suicide.
 
-Zeresh: The wife of Haman is considered to be equal in wickedness to her husband, and similar in her hatred of the Jews. 
+**Zeresh**: 
+> The wife of Haman is considered to be equal in wickedness to her husband, and similar in her hatred of the Jews. 
 
 ## Key Notes
 > The previous queen was named Vashti and was banished by King Xerxes for she refused to show her beauty during the 180-day party
