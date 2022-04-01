@@ -6,7 +6,9 @@ This website was the result of the Christian Living project for the easter term 
 
 As of now, the website has practice, games, notes, and the story of Esther, David, and Ruth.
 
-### Ruth
-[Story](stories/esther.md)
-> [Practice](extras/games/esther.md)
+## Ruth
+> [Story](stories/esther.md)  
+
+> [Practice](extras/games/esther.md)  
+
 > [Games](extras/games/esther.md)
