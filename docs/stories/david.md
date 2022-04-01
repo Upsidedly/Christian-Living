@@ -59,3 +59,9 @@ David and Bathsheba eventually had another son named Solomon who would eventuall
 !> Read more about David and Bathsheba and see how even though God can always forgive, there will still be consequences for our sinful choices: 2 Samuel 11
 
 ## Key Notes
+
+> Israel grew jealous of their surrounding nations and demanded a King. God obliged and gave signs to Saul that he would be King and was annointed by the prophet Samuel shorty afterwards.
+
+> Saul originally was a good king, assuring many victories for Israel, guided by God, however in the future he disobeyed God and tried to cover it up.
+
+> Because he disobeyed God, Samuel rebuked him and informed him another King will be appointed to rule Israel.

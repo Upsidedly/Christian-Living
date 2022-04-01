@@ -6,3 +6,7 @@
 > Created crosswords and helped with Esther story and dialogue
 - Naela Nunes
 > Created quizizz quizzes and formatted the dialogue for the esther text game
+- Kyle Walker
+> Created the wordsearch
+
+*This website would not be the same without the contribution of everyone mentioned on this page.*
