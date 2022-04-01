@@ -76,4 +76,4 @@ Important Characters in the Book of Esther
 
 > Haman grows a hatred for Jews which is fueled even further because of Mordecai's refusal to bow to him. He wants all Jews in Persia to be slaughtered. He tells the king that the Jews are plotting to overthrow him and that they are spies. The King believes him and issues a degree that all Jews should be exterminated on the 13th of Adar
 
-> Esther reveals herself as a Jew to the King and says what Haman tol
+> Esther reveals herself as a Jew to the King and says what Haman told the King was a lie. The King is outraged and hangs Haman from the same gallows he made for Mordecai.
