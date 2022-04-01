@@ -1,7 +1,7 @@
 # Credits
 
 - Matthew Williams
-> Website Creation and organization of all the content
+> Website Creation and organization of all the content. Also did some quizzizz's and programmed the backend of the Esther text game
 - Daniel Smith  
 > Created crosswords and helped with Esther story and dialogue
 - Naela Nunes

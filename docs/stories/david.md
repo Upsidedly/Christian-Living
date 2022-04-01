@@ -1,4 +1,8 @@
-**David is Anointed as King by Samuel**
+# Story of David
+
+> [Go to the key notes](david?id=key-notes) (at the bottom of the page)
+
+## David is Anointed as King by Samuel
 
 Samuel was a judge and widely recognized as a prophet. He persuaded Israel to stop worshipping other gods and to worship God alone. In return God thwarted many attacks by the Philistines.
 
@@ -14,7 +18,7 @@ God led Samuel to the town of Bethlehem to choose a new king. The king would com
 
 God withdrew his power from Saul, cursing Saul with emotional/mental distress in the form of an “evil spirit”. Saul sent for someone to play the harp for him to comfort him. David was the harp-player. Through this event David began his rise to eventually become king.
 
-**David and Goliath**
+## David and Goliath
 
 The story of David and Goliath is one of most popular stories from the Bible. It is a lesson of courage and faith. It teaches us about overcoming what seems impossible with the help of God.
 
@@ -34,7 +38,7 @@ The Philistines ran away when they saw Goliath killed. Israel had won the battle
 
 Read the full story in 1 Samuel:17
 
-**David and Bathsheba**
+## David and Bathsheba
 
 The story of David and Bathsheba reminds us that even great men who are called by God are still humans and struggle with sin. King David was a good king who did his best to follow God's laws.
 
@@ -52,4 +56,6 @@ David was dismayed and grieved while his son was ill. However when his soon died
 
 David and Bathsheba eventually had another son named Solomon who would eventually become king.
 
-*Read more about David and Bathsheba and see how even though God can always forgive, there will still be consequences for our sinful choices: 2 Samuel 11
+!> Read more about David and Bathsheba and see how even though God can always forgive, there will still be consequences for our sinful choices: 2 Samuel 11
+
+## Key Notes
