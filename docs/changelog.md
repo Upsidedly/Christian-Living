@@ -12,3 +12,7 @@
 ## Removals
 
 - Quizzizz submission date
+
+## Notes
+
+Submitted project to moodle 😉
