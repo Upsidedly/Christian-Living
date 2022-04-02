@@ -7,6 +7,6 @@
 ## -  Naela Nunes
 > Created quizizz quizzes and formatted the dialogue for the esther text game
 ## -  Kyle Walker
-> Created the bible chapters wordsearch and David crossword
+> Created the bible chapters wordsearch and crossword
 
 *This website would not be the same without the contribution of everyone mentioned on this page.*
