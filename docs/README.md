@@ -9,6 +9,13 @@ As of now, the website has practice, games, notes, and the story of Esther, Davi
 ## Esther
 > [Story](stories/esther.md)  
 
-> [Practice](resources/games/esther.md)  
+> [Practice](resources/practice/esther.md)  
 
 > [Games](resources/games/esther.md)
+
+## David
+> [Story](stories/david.md)
+
+> [Practice](resources/practice/david.md)
+
+> [Games](resources/games/david.md)
