@@ -1,6 +1,6 @@
 # Home
 
-!> Please note! This site is being actively worked on by [Matthew Williams](credits?id=-matthew-williams). If you have materials or notes you would like to contribute to this site please contact him at <a href="mailto:matthewlloydw@gmail.com?subject=Content Contribution" target="_blank">matthewlloydw@gmail.com</a>.
+!> Please note! This site is being actively worked on by [Matthew Williams](credits?id=-matthew-williams). If you have materials or notes you would like to contribute to this site please contact him at <a href="mailto:matthewlloydw@gmail.com" target="_blank">matthewlloydw@gmail.com</a>.
 
 > This website was created by Matthew Williams, visit the [credits page](credits.md) for more mentions.
 
