@@ -21,5 +21,8 @@
     - [Practice](resources/practice/david.md)
     - [Games](resources/games/david.md)
 
+- Extras
+  - [Resources](extras/resources.md)
+
 [Credits](credits.md)  
 [Changelog](changelog.md)
