@@ -1,4 +1,4 @@
-# Changelog
+# Changelog ![](_media/update-icon.svg)
 
 ## Additions
 
