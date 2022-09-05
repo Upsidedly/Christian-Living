@@ -44,15 +44,62 @@
         coverpage: true,
         mergeNavbar: true,
         auto2top: true,
+        plugins: [
+          function (hook, vm) {
+            hook.doneEach(function () {
+              twemoji.parse(document);
+            });
+          },
+        ],
+        tabs: {
+          persist: true, // default
+          sync: true, // default
+          theme: "material", // default
+          tabComments: true, // default
+          tabHeadings: true, // default
+        },
+
+        search: "auto", // default
+
+        // complete configuration parameters
+        search: {
+          maxAge: 86400000, // Expiration time, the default one day
+          paths: "auto",
+          placeholder: "Type to search",
+          noData: "No Results!",
+          depth: 6,
+          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        },
       };
     </script>
+
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <!-- Emoji Plugin -->
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+
+    <!-- Plugins -->
+
+    <!-- Emoji -->
+    <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
+
     <!-- Image Zoom Plugin -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
     <!-- Pagination Plugin -->
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+    <!-- Copy 2 Clipboard -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
+    <!-- External Script -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+    <!-- Themeable -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+    <!-- Tabs -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+
+    <!-- Search -->
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   </body>
 </html>

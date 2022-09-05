@@ -7,6 +7,9 @@
 
 - Topics
     - [Ten Commandments](topics/tencommandments.md)
+    - [Easter](topics/easter.md)
+    - [Prayer](topics/prayer.md)
+    - [Family](topics/family.md)
 
 - People
 
