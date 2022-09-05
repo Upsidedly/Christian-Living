@@ -1,6 +1,6 @@
 # Overview
 
-This is the 2nd form section of the Christian Living website. You can access different topics on the sidebar or navigational bar. The site is opinionated towards 2-2
+This is the 2nd form section of the Christian Living website. You can access different topics on the sidebar or navigational bar. The site is opinionated towards the 2-2 classroom.
 
 ### Miss' (very good) selected song
 <video width="320" height="240" controls>
