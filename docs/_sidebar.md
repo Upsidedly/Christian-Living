@@ -1,7 +1,5 @@
 <!-- _sidebar.md -->
 
-<!-- trunk-ignore(markdownlint/MD041) -->
-
 - General
   - [Home](README.md)
 
